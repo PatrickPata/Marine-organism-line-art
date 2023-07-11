@@ -5,3 +5,5 @@ Please note that the organisms were vectorized from personsal sketches and were 
 
 Please attribute this repository if you use the art assets. You can use something similar to: 
 Pata, P. (2023). Marine organism line art. https://github.com/PatrickPata/Marine-organism-line-art
+
+![Icons_overview](https://github.com/PatrickPata/Marine-organism-line-art/assets/9817907/ec748cb7-3612-436e-bf66-c121dac8afc9)
